@@ -1,2 +1,2 @@
-set (mesajebienvenidos) = "bienvenidos"
+let mensajebienvenidos = "bienvenidos"
 alert(mensajebienvenidos)
